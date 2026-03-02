@@ -1,0 +1,13 @@
+{
+  "owner": "Orbofi",
+  "slug": "beefy-finance",
+  "displayName": "beefy-finance",
+  "version": "1.0.0",
+  "tags": ["bnb","bsc","yield","vault","beefy","auto-compound","defi"],
+  "chain": "bnb-chain",
+  "category": "yield",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": "2026-03-02T19:01:07Z"
+  }
+}

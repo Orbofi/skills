@@ -1,0 +1,13 @@
+{
+  "owner": "Orbofi",
+  "slug": "pancakeswap",
+  "displayName": "pancakeswap",
+  "version": "1.0.0",
+  "tags": ["bnb","bsc","dex","pancakeswap","swap","liquidity","farming"],
+  "chain": "bnb-chain",
+  "category": "dex",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": "2026-03-02T19:01:07Z"
+  }
+}

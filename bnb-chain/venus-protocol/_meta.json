@@ -1,0 +1,13 @@
+{
+  "owner": "Orbofi",
+  "slug": "venus-protocol",
+  "displayName": "venus-protocol",
+  "version": "1.0.0",
+  "tags": ["bnb","bsc","lending","venus","supply","borrow","defi"],
+  "chain": "bnb-chain",
+  "category": "lending",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": "2026-03-02T19:01:07Z"
+  }
+}

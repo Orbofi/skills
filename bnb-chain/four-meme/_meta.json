@@ -1,0 +1,13 @@
+{
+  "owner": "Orbofi",
+  "slug": "four-meme",
+  "displayName": "four-meme",
+  "version": "1.0.0",
+  "tags": ["bnb","bsc","meme","token-launch","bonding-curve","four-meme"],
+  "chain": "bnb-chain",
+  "category": "meme",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": "2026-03-02T19:01:07Z"
+  }
+}

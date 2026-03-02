@@ -1,0 +1,13 @@
+{
+  "owner": "Orbofi",
+  "slug": "thena-dex",
+  "displayName": "thena-dex",
+  "version": "1.0.0",
+  "tags": ["bnb","bsc","dex","thena","ve33","swap","liquidity"],
+  "chain": "bnb-chain",
+  "category": "dex",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": "2026-03-02T19:01:07Z"
+  }
+}
