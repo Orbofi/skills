@@ -1,6 +1,6 @@
 # BNB Chain Skills for AI Agents
 
-The most comprehensive collection of BNB Chain (BSC) AI agent skills — covering DEXes, lending, staking, yield farming, security, analytics, bridging, meme tokens, and the official BNB Chain MCP. Compatible with **Orbofi**, **Claude Code**, **OpenClaw**, and **Codex**.
+The most comprehensive collection of BNB Chain (BSC) AI agent skills — covering DEXes, lending, staking, yield farming, security, analytics, bridging, meme tokens, and the official BNB Chain MCP. Compatible with **Orbofi**, **Claude Code**, **OpenClaw**, and **Codex**. Give your agents useful BSC capabilities. 
 
 ## Install
 
